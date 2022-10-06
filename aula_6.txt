@@ -1,0 +1,393 @@
+    1  dir
+    2  ls
+    3  ls -a
+    4  ls ..
+    5  pwd
+    6  cd ..desktop
+    7  cd ..video
+    8  pwd
+    9  cd ..video
+   10  dir
+   11  cd ..edcarla
+   12  cd ..pisct
+   13  cd.. picture
+   14  cd..picture
+   15  cd..stalin
+   16  cd.. stalin
+   17  cd stalin
+   18  pwd
+   19  dir
+   20  cd..
+   21  ls
+   22  cd..
+   23  dir
+   24  cd~
+   25  cd ~
+   26  ls
+   27  ls
+   28  cd st
+   29  cd stal
+   30  cd d
+   31  cd D
+   32  ls
+   33  cd d
+   34  cd desktop
+   35  ls
+   36  cd..
+   37  cd d
+   38  cd D
+   39  cd video
+   40  ls
+   41  mkdir videosnuevos
+   42  ls
+   43  mkdir rosa rosa1
+   44  çls
+   45  ls
+   46  cd rosa
+   47  pwd
+   48  ls
+   49  cd rosa
+   50  ls
+   51  cd rosa1
+   52  cd..
+   53  ls
+   54  cd~
+   55  cd..
+   56  dir
+   57  ls -a
+   58  cd ..
+   59  ls
+   60  mkdir "rosa rosa1"
+   61  ls
+   62  ls
+   63  mkdir-p pedro/maria
+   64  mkdir -p pedro/maria
+   65  ls
+   66  cd pedro
+   67  ls
+   68  rm -r maria
+   69  ls
+   70  cd..
+   71  cd ..
+   72  ls
+   73  rm -r pedro
+   74  rm -r rosa
+   75  rm -r rosa1
+   76  rm -r rosa rosa1
+   77  ls
+   78  rm -r 'rosa rosa1'
+   79  ls
+   80  mkdir rosa
+   81  ls
+   82  mv rosa pedro
+   83  ls
+   84  mkdir rosa1
+   85  ls
+   86  mv rosa pedro
+   87  mv rosa1 pedro
+   88  ls
+   89  cd pedro
+   90  ls
+   91  touch arquivo.txt
+   92  ls
+   93  cp arquivo.txt ros
+   94  ls
+   95  ls
+   96  cd rosa1
+   97  ls
+   98  cd ..
+   99  ls
+  100  km -r ros
+  101  rm -r ros
+  102  ls
+  103  cp arquivo.txt rosa1/
+  104  ls
+  105  cd rosa1
+  106  ls
+  107  echo 'mensagem'
+  108  echo 'amor'
+  109  echo 'amor' > comando.tex
+  110  cat comando.txt
+  111  cat comando.tex
+  112  cat
+  113  cat
+  114  dir
+  115  echo 'mensagem' > comando.tet
+  116  cat comando.tet
+  117  cat
+  118  cat > comando.tet
+  119  cat comando.tet
+  120  cat comando.tet
+  121  cat >> comando.tet
+  122  cat comando.tet
+  123  cat comando.tet
+  124  cat >> comando.tet
+  125  cat comando.tet
+  126  cat > comando.tet
+  127  cat comando.tet
+  128  git config --global user.name 'stalin mendez'
+  129  git config --global user.email 'stalinmendez69@gmail.com'
+  130  git config user.name
+  131  git config user.email
+  132  cd desktop
+  133  mkdir curso_git
+  134  cd curso_git
+  135  git config user.nome
+  136  cd curso_git
+  137  git config user.name
+  138  git init
+  139  git status
+  140  echo '#aprendendo usar o git' > readme.md
+  141  git status
+  142  git add readme.md
+  143  git status
+  144  echo '##Aula 1' > readme.md
+  145  git status
+  146  echo 'Stalin Mendez' > readme.txt
+  147  git status
+  148  echo 'Stalin Mendez' > participante.txt
+  149  git status
+  150  git add.
+  151  git status
+  152  git add participante.txt
+  153  git status
+  154  git add readme.txt
+  155  git status
+  156  git add readme.md
+  157  git status
+  158  git retore -staged.
+  159  git status
+  160  git restore --staged .
+  161  git restore --staged.
+  162  git status
+  163  git restore--staged.
+  164  git status
+  165  git help
+  166  git restore
+  167  git status
+  168  git restore -staged participante.txt
+  169  git status
+  170  git restore --staged participante.txt
+  171  git commit -am 'alteração no readme'
+  172  git status
+  173  git status
+  174  histoy > aula_3.txt
+  175  git status
+  176  touch readme.md
+  177  ls
+  178  cat readme.md
+  179  cat > readme.md
+  180  ls
+  181  echo "mensagen"
+  182  echo "mensagen" > documentos.txt
+  183  cat documentos.txt
+  184  echo "" > documentos.txt
+  185  cat documentos.txt
+  186  echo ""
+  187  git log
+  188  git log
+  189  ls
+  190  cd det
+  191  cd video
+  192  cd videos
+  193  ls
+  194  ls
+  195  cd..
+  196  cd
+  197  ls
+  198  clear
+  199  ls
+  200  cd desktop
+  201  ls
+  202  cd curso_git
+  203  ls
+  204  git log
+  205  git log --pretty=oneline
+  206  git log --stat
+  207  git log -p
+  208  ls
+  209  clear
+  210  ls
+  211  cd..
+  212  cd ..
+  213  ls
+  214  ls
+  215  cd curso-git
+  216  cd curso_git
+  217  ls
+  218  git status
+  219  ls
+  220  git add participante.txt
+  221  git status
+  222  git add.
+  223  git add.
+  224  git --help
+  225  ls
+  226  git rm --cached aula_3 txt
+  227  git rm --cached readme.txt
+  228  ls
+  229  git rm --cached readme.md
+  230  ls
+  231  clear
+  232  git log
+  233  clear
+  234  git log
+  235  git log --pretty=oneline
+  236  git log --stat
+  237  git log -p
+  238  git log --pretty=oneline -2
+  239  git log --pretty=oneline -1
+  240  git log --since=20.minutes
+  241  git log --since=10.minutes
+  242  git log --since=30.minutes
+  243  git log --since=3.minutes
+  244  git log --since=1.minutes
+  245  git log --since=55.minutes
+  246  git log --author='stalin mendez'
+  247  touch teste
+  248  git add teste
+  249  git status
+  250  commit -m 'commit teste'
+  251  git commit -m 'commit de teste'
+  252  git status
+  253  git log
+  254  git reset --soft head~
+  255  git log
+  256  git reset --soft HEAD~
+  257  git log
+  258  git log
+  259  git status
+  260  git commit -m 'commit de teste'
+  261  git log
+  262  git reset --hard HEAD~
+  263  git log
+  264  git status
+  265  git checkout HEAD~2
+  266  git log
+  267  git status
+  268  git checkout 'master'
+  269  git log
+  270  git checkout HEAD~
+  271  git checkout master
+  272  git log
+  273  git status
+  274  git log --pretty=oneline
+  275  mkdir .vscode
+  276  touch conf.txt
+  277  mv conf.txt .vscode/
+  278  ls .vscode/
+  279  ls
+  280  ls -a
+  281  git status
+  282  echo '.vscode/' > .gitignore
+  283  git status
+  284  touch pessoal.comf
+  285  git status
+  286  echo 'pessoal.comf' >> .gitignore
+  287  git status
+  288  git add .gitignore
+  289  git commit -m 'Adicionado arquivo .gitignore'
+  290  git status
+  291  history > aula_4.txt
+  292  git status
+  293  git add .
+  294  git commit -m 'Comandos da Aula 4'
+  295  git log
+  296  history -c: clear
+  297  ls
+  298  cd Desktop/
+  299  ls
+  300  cd curso_git/
+  301  git log
+  302  git git log -2
+  303  git log -p -2
+  304  git log -2
+  305  git log --pretty=oneline -2
+  306  git reset HEAD~
+  307  git log
+  308  git log --pretty=oneline -2
+  309  git log -2
+  310  git log -p -2
+  311  git log
+  312  git status
+  313  git add aula_4.txt
+  314  ls
+  315  git status
+  316  git commit -m 'Comandos da Aula 4'
+  317  git log
+  318  git log
+  319  git log -2
+  320  git log -p -2
+  321  git log --pretty=oneline -2
+  322  git branch
+  323  git checkout -b 'feature'
+  324  git branch
+  325  touch nova_feature
+  326  git status
+  327  git add nova_feature
+  328  git commit -m 'Adicionando nova feature'
+  329  git log 
+  330  git log
+  331  git checkout master
+  332  git log
+  333  git status
+  334  git log
+  335  git log
+  336  git log
+  337  git clear
+  338  clear
+  339  git log --pretty=online --graph
+  340  git log --pretty=oneline --graph
+  341  git checkout featura
+  342  git checkout feature
+  343  git log --pretty=oneline --graph
+  344  git merge master
+  345  git merge master
+  346  git log --pretty=oneline --graph
+  347  git merge master
+  348  git merge master
+  349  git log --pretty=oneline --graph
+  350  git log
+  351  git reset --hard HEAD~
+  352  git log --pretty=oneline --graph
+  353  git rebase master
+  354  git log
+  355  git log --pretty=oneline --graph
+  356  history > aula_5.txt
+  357  git add aula_5.txt
+  358  git commit -m 'Comandos da aula 5'
+  359  history -c: clear:
+  360  history -c: clear;
+  361  history -c: clear
+  362  history -c: clear; 
+  363  git log
+  364  git config --global alias.logpg 'log --pretty=oneline --graph'
+  365  git logpg
+  366  cd desktop
+  367  git status
+  368  ls
+  369  cd curso_git
+  370  ls
+  371  git logpg
+  372  git checkout master
+  373  ls
+  374  git checkout feauture
+  375  ls
+  376  git checkout feature
+  377  ls
+  378  git logpg
+  379  git status
+  380  git comfig --global alias.CAM'commit -am'
+  381  git comfig alias.CAM'commit -am'
+  382  git comfig alias.CAM 'commit -am'
+  383  git config alias.CAM 'commit -am'
+  384  git CAM
+  385  git tag
+  386  git tag -a v0.1 -m 'até a Aula 5'
+  387  git logpg
+  388  git checkout master
+  389  git rebase feature
+  390  git logpg
+  391  git history > aula_6.txt
+  392  git add aula_6.txt
+  393  history > Aula_6.txt
