@@ -3,4 +3,4 @@
 
 ##Aula 1
 
-quefoi o que eu aprendi?
+o que foi o que eu aprendi?
